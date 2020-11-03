@@ -14,7 +14,7 @@ copy .env.example .env
 ```
 php artisan Key:generate
 ```
-#####Configure your Database
+###Configure your Database
 ```
 php artisan migrate
 ```
